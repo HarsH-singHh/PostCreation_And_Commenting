@@ -1,0 +1,33 @@
+img{
+    width: auto;
+    height: 300px;
+}
+
+.image-post{
+    border-bottom: 10px dotted rgb(24, 104, 224);
+    margin-bottom: 20px;
+}
+
+.choose-file{
+    margin-top: 5px;
+    background-color:rgb(189, 185, 185);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+form div{
+    padding: 10px;
+    margin-left: 20px;
+}
+
+form button{
+    padding: 10px;
+    background-color: rgb(33, 126, 212);
+    color: white;
+    font-weight: 700;
+}
+
+form button:hover{
+    cursor: pointer;
+}
